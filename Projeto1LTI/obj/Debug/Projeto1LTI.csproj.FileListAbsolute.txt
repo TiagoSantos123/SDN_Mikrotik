@@ -1,0 +1,11 @@
+C:\Users\Tiago Santos\source\repos\Projeto1LTI\Projeto1LTI\bin\Debug\Projeto1LTI.exe.config
+C:\Users\Tiago Santos\source\repos\Projeto1LTI\Projeto1LTI\bin\Debug\Projeto1LTI.exe
+C:\Users\Tiago Santos\source\repos\Projeto1LTI\Projeto1LTI\bin\Debug\Projeto1LTI.pdb
+C:\Users\Tiago Santos\source\repos\Projeto1LTI\Projeto1LTI\obj\Debug\Projeto1LTI.csproj.AssemblyReference.cache
+C:\Users\Tiago Santos\source\repos\Projeto1LTI\Projeto1LTI\obj\Debug\Projeto1LTI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tiago Santos\source\repos\Projeto1LTI\Projeto1LTI\obj\Debug\Projeto1LTI.Properties.Resources.resources
+C:\Users\Tiago Santos\source\repos\Projeto1LTI\Projeto1LTI\obj\Debug\Projeto1LTI.csproj.GenerateResource.cache
+C:\Users\Tiago Santos\source\repos\Projeto1LTI\Projeto1LTI\obj\Debug\Projeto1LTI.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Santos\source\repos\Projeto1LTI\Projeto1LTI\obj\Debug\Projeto1LTI.exe
+C:\Users\Tiago Santos\source\repos\Projeto1LTI\Projeto1LTI\obj\Debug\Projeto1LTI.pdb
+C:\Users\Tiago Santos\source\repos\Projeto1LTI\Projeto1LTI\obj\Debug\Projeto1LTI.Form1.resources
